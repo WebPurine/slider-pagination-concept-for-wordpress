@@ -2,7 +2,7 @@
 /*
 Plugin Name: Slider Pagination Concept for WordPress
 Plugin URI: https://github.com/WebPurine/slider-pagination-concept-for-wordpress
-Description: 
+Description: Smartphone site for pagination
 Author: Webnist
 Version: 0.7.1.0
 Author URI: http://web-purine.com//
