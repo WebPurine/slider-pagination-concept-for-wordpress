@@ -5,7 +5,7 @@ Plugin URI: https://github.com/WebPurine/slider-pagination-concept-for-wordpress
 Description: Smartphone site for pagination
 Author: Webnist
 Version: 0.7.1.0
-Author URI: http://web-purine.com//
+Author URI: http://web-purine.com/
 Text Domain: spcfwp
 Domain Path: /languages/
 License: GNU General Public License v2 or later
